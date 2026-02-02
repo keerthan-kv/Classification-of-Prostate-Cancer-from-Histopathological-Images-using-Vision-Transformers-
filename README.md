@@ -134,27 +134,3 @@ kvpc/
 ├── preprocessed_data/              # Preprocessed .npy files
 └── prostrate_cancer_data/          # Original dataset
 ```
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## ⚠️ Disclaimer
-
-This project is for research and educational purposes only. It should not be used as a substitute for professional medical diagnosis.
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
-## 🙏 Acknowledgments
-
-- Swin Transformer architecture by Microsoft Research
-- timm library by Ross Wightman
-- Gradio for interactive ML interfaces
-
----
-
-**Author**: V-virika  
-**Project**: Deep Learning-Based Prostate Cancer Classification  
-**Year**: 2026
